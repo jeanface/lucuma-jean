@@ -18,3 +18,4 @@ Creditos:
 	*rosamariapalacios
 	*Bareta
 >>>>>>> v1.2
+	Este archivo fue editado por Luz
